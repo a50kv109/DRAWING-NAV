@@ -1,0 +1,7 @@
+function: "Краткое описание"
+interfaces:
+  - location: "ID узла"
+    type: "Тип передачи (сила/тепло)"
+load_path: ["NODE_A", "NODE_B", "NODE_C"]
+criticality: "High/Medium/Low"
+failure_consequences: "Описание отказа"

@@ -1,0 +1,12 @@
+nodes:
+  - id: "P_01"
+    type: "Part"
+  - id: "C_01"
+    type: "Connection"
+
+edges:
+  - from: "P_01"
+    to: "C_01"
+    type: "connected_to"
+    load_path: "axial"
+    flow_type: "force"

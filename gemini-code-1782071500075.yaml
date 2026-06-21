@@ -1,0 +1,18 @@
+DOCUMENT_CONTROL:
+  id: "DRAW-XXXX-YY"
+  title: "Название изделия"
+  revision: "A"
+  author: "ФИО"
+  approver: "ФИО"
+  issue_date: "2026-06-21"
+  standard: ["ISO-xxxx", "GOST-xxxx"]
+
+GEOMETRY_SPACE:
+  views: []
+  dimensions: []
+  tolerances: []
+
+SEMANTIC_SPACE:
+  function: "Основная функция"
+  interfaces: []
+  load_paths: []
